@@ -22,6 +22,7 @@ RHCSA - Red Hat Certified System Administrator
 AWS Certified Cloud Solutions Architect - Associate
 
 Certified Kubernetes Administrator - CKA
+
 <!--
 **ranjithrrk16/ranjithrrk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working as Cloud & DevOps Engineer
