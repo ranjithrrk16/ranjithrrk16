@@ -23,14 +23,12 @@ AWS Certified Cloud Solutions Architect - Associate
 
 Certified Kubernetes Administrator - CKA
 
-<!--
-**ranjithrrk16/ranjithrrk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working as Cloud & DevOps Engineer
 - 🌱 I’m currently learning DevSecOps
 - 👯 I’m looking to collaborate on similar interested learners
 - 🤔 I’m looking for help with career opportunities
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
--->
+
 Languages and Tools:
 aws azure bash docker gcp git jenkins kubernetes linux python
