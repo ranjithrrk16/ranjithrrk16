@@ -9,7 +9,7 @@ Languages and Tools:
 - Azure repos migration from ADO to GIThub.
 - Application migration from openshift containers to AWS EKS
 - AWS cloud implementation in multiple regions
-- CI CD pipeline setup with integrating monitoring tools
+- CI/CD pipeline setup with integrating monitoring tools
 
 Keep learning new skills ✍️
 
