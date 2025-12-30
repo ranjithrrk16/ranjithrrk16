@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
-[Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) 
-[Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
-
-Languages and Tools:
 # My Projects
 - Azure repos migration from ADO to GIThub.
 - Application migration from openshift containers to AWS EKS
@@ -27,3 +23,6 @@ Certified Kubernetes Administrator - CKA
 
 Personal Portfolio ⚡️
 https://ranjithrrk16.github.io/ranjith-portfolio
+[Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) 
+
+[Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
