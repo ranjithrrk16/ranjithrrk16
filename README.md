@@ -9,10 +9,10 @@ Keep learning new skills ✍️
 
 🏆 Achievements & Certifications:
 
-RHCE - Redhat Certified Engineer
-RHCSA - Red Hat Certified System Administrator
-AWS Certified Cloud Solutions Architect - Associate
-Certified Kubernetes Administrator - CKA
+* RHCE - Redhat Certified Engineer
+* RHCSA - Red Hat Certified System Administrator
+* AWS Certified Cloud Solutions Architect - Associate
+* Certified Kubernetes Administrator - CKA
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer
 - 🌱 I’m currently learning DevSecOps
