@@ -10,7 +10,7 @@
 * RHCSA - Red Hat Certified System Administrator
 * AWS Certified Cloud Solutions Architect - Associate
 * Certified Kubernetes Administrator - CKA
-Keep learning new skills ✍️
+
 - 🔭 I’m currently working as Cloud & DevOps Engineer
 - 🌱 I’m currently learning DevSecOps
 - 👯 I’m looking to collaborate on similar interested learners
