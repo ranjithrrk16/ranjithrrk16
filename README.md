@@ -1,7 +1,4 @@
-Personal Portfolio ⚡️
-https://ranjithrrk16.github.io/ranjith-portfolio
-
-I'm Ranjith Katanguri 👋
+<h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
 [Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) [Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
 
 Languages and Tools:
@@ -16,11 +13,8 @@ Keep learning new skills ✍️
 🏆 Achievements & Certifications:
 
 RHCE - Redhat Certified Engineer
-
 RHCSA - Red Hat Certified System Administrator
-
 AWS Certified Cloud Solutions Architect - Associate
-
 Certified Kubernetes Administrator - CKA
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer
@@ -30,5 +24,5 @@ Certified Kubernetes Administrator - CKA
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
 
-Languages and Tools:
-aws azure bash docker gcp git jenkins kubernetes linux python
+Personal Portfolio ⚡️
+https://ranjithrrk16.github.io/ranjith-portfolio
