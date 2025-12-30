@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
-# My Projects
-- Azure repos migration from ADO to GIThub.
-- Application migration from openshift containers to AWS EKS
-- AWS cloud implementation in multiple regions
-- CI/CD pipeline setup with integrating monitoring tools
-
-📜🏅Certifications:
-* RHCE - Redhat Certified Engineer
-* RHCSA - Red Hat Certified System Administrator
-* AWS Certified Cloud Solutions Architect - Associate
-* Certified Kubernetes Administrator - CKA
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer
 - 🌱 I’m currently learning DevSecOps
@@ -18,6 +7,18 @@
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
 
+# My Projects
+1. Azure repos migration from ADO to GIThub.
+2. Application migration from openshift containers to AWS EKS
+3. AWS cloud implementation in multiple regions
+4. CI/CD pipeline setup with integrating monitoring tools
+
+📜🏅Certifications:
+* RHCE - Redhat Certified Engineer
+* RHCSA - Red Hat Certified System Administrator
+* AWS Certified Cloud Solutions Architect - Associate
+* Certified Kubernetes Administrator - CKA
+  
 Personal Portfolio ⚡️
 https://ranjithrrk16.github.io/ranjith-portfolio
 
