@@ -7,7 +7,7 @@
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
 
-# My Projects
+👨🏻‍💻 My Projects:
 1. Azure repos migration from ADO to GIThub.
 2. Application migration from openshift containers to AWS EKS
 3. AWS cloud implementation in multiple regions
