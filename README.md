@@ -17,7 +17,8 @@
 * RHCE - Redhat Certified Engineer
 * RHCSA - Red Hat Certified System Administrator
 * AWS Certified Cloud Solutions Architect - Associate
-* Certified Kubernetes Administrator - CKA
+* Certified Kubernetes Administrator - CKA - LF-0l3qjctcss (The Linux Foundation)
+* Microsoft Certified Azure Administrator Associate - (AZ-104) - (86CDOA-F1D40A)
   
 Personal Portfolio ⚡️
 https://ranjithrrk16.github.io/ranjith-portfolio
