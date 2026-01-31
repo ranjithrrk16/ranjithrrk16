@@ -31,6 +31,4 @@ https://ranjithrrk16.github.io/ranjith-portfolio
 
 [Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
 
-<img width="836" height="104" alt="image" src="https://github.com/user-attachments/assets/94f34580-73e1-4f33-8159-014eca89452c" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/214319f1-35a9-4cf9-8f1c-17180b5bd743" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/38e08ee2-ed64-46fc-957e-527e63b7e1d3" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/46d9f914-c873-4bb0-90eb-1e1355000cf4" />
-
-
+<img width="836" height="104" alt="image" src="https://github.com/user-attachments/assets/94f34580-73e1-4f33-8159-014eca89452c" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/214319f1-35a9-4cf9-8f1c-17180b5bd743" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/38e08ee2-ed64-46fc-957e-527e63b7e1d3" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46d9f914-c873-4bb0-90eb-1e1355000cf4" />
