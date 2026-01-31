@@ -32,3 +32,4 @@ https://ranjithrrk16.github.io/ranjith-portfolio
 [Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
 
 <img width="836" height="104" alt="image" src="https://github.com/user-attachments/assets/94f34580-73e1-4f33-8159-014eca89452c" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/214319f1-35a9-4cf9-8f1c-17180b5bd743" />
