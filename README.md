@@ -3,7 +3,6 @@
 About Me:
 
 🔹Senior DevOps & Cloud Engineer with expertise in Linux,AWS,Azure,Kubernetes, CI/CD, Automation.
-
 🔹Perform roles as Site Reliability Engineer(SRE), DevSecOps Engineer, Kubenetes engineer, Azure DevOps Engineer, AWS cloud Engineer, Linux SME.
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer
