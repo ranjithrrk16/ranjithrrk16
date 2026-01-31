@@ -26,6 +26,7 @@ About Me:
   
 Personal Portfolio ⚡️
 https://ranjithrrk16.github.io/ranjith-portfolio
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6fe473c1-eccc-4579-a0d7-28ea4fc18fac" />
 
 [Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) 
 
