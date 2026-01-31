@@ -24,8 +24,7 @@ About Me:
 * Certified Kubernetes Administrator - CKA - LF-0l3qjctcss (The Linux Foundation)
 * Microsoft Certified Azure Administrator Associate - (AZ-104) - (86CDOA-F1D40A)
   
-Personal Portfolio ⚡️
-https://ranjithrrk16.github.io/ranjith-portfolio 
+🌐 Connect with Me: 
 [Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/)  
 [Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
 
