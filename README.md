@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
+About Me:
+🔹Senior DevOps & Cloud Engineer with expertise in Linux,AWS,Azure,Kubernetes, CI/CD, Automation.
+🔹Perform roles as Site Reliability Engineer(SRE), DevSecOps Engineer, Kubenetes engineer, Azure DevOps Engineer, AWS cloud Engineer, Linux SME.
 
 - 🔭 I’m currently working as Cloud & DevOps Engineer
-- 🌱 I’m currently learning DevSecOps
+- 🌱 I’m currently learning Advanced DevOps concepts
 - 👯 I’m looking to collaborate on similar interested learners
 - 🤔 I’m looking for help with career opportunities
 - 💬 Ask me about any technical things, ready to share and explore
