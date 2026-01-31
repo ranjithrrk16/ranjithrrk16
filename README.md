@@ -30,3 +30,5 @@ https://ranjithrrk16.github.io/ranjith-portfolio
 [Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) 
 
 [Gmail Badge](https://mail.google.com/mail/u/0/#inbox)
+
+<img width="836" height="104" alt="image" src="https://github.com/user-attachments/assets/94f34580-73e1-4f33-8159-014eca89452c" />
