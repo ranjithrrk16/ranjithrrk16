@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
 
 About Me:   
-🔹Senior DevOps & Cloud Engineer with expertise in Linux,AWS,Azure,Kubernetes, CI/CD, Automation.    
+🔹Lead SRE & DevSecOps Cloud Engineer with expertise in Linux, AWS cloud, Kubernetes, CI/CD, Automation skills.    
 🔹Perform roles as Site Reliability Engineer(SRE), DevSecOps Engineer, Kubenetes engineer, Azure DevOps Engineer, AWS cloud Engineer, Linux SME.
 
-- 🔭 I’m currently working as Cloud & DevOps Engineer
-- 🌱 I’m currently learning Advanced DevOps concepts
-- 👯 I’m looking to collaborate on similar interested learners
-- 🤔 I’m looking for help with career opportunities
+- 🌱 I’m currently learning Advanced DevSecOps concepts
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
 
 👨🏻‍💻 My Projects:
-1. Azure repos migration from ADO to GIThub.
-2. Application migration from openshift containers to AWS EKS
-3. AWS cloud implementation in multiple regions
-4. CI/CD pipeline setup with integrating monitoring tools
+1. Azure repos migration from ADO to GIThub. (Azure DevOps Role) 
+2. Application migration from openshift containers to AWS EKS (Kubernetes Engineer Role)
+3. AWS cloud implementation in multiple regions (Platform Engineer Role)
+4. CI/CD pipeline setup with integrating monitoring tools (SRE Role)
+5. Perform code security scanning and code coverage checks (DevSecOps Role)
 
 📜🏅Certifications:
 * RHCE - Redhat Certified Engineer
