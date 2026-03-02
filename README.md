@@ -4,7 +4,7 @@ About Me:
 🔹Lead SRE & DevSecOps Cloud Engineer with expertise in Linux, AWS cloud, Azure DevOps, Kubernetes, CI/CD, Terraform, Observabilities.    
 🔹Perform roles as Site Reliability Engineer(SRE), DevSecOps Engineer, Kubenetes engineer, Azure DevOps Engineer, AWS cloud Engineer, Linux SME(Subject Matter Expert).
 
-- 🌱 I’m currently learning ML/AI driven concepts
+- 🌱 I’m currently learning AI/ML driven concepts
 - 💬 Ask me about any technical things, ready to share and explore
 - 📫 How to reach me: ranjithrrk16@gmail.com
 
