@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjith Katanguri </h1>
 
 About Me:   
-🔹Lead SRE & DevSecOps Cloud Engineer with expertise in Linux, AWS cloud, Azure DevOps, Kubernetes, CI/CD, Terraform, Observabilities.    
+🔹Lead SRE & DevSecOps Cloud Engineer with expertise in Kubernetes, AWS cloud, Azure DevOps, CI/CD(Jenkins, GitHub Actions), Terraform, Observabilities.    
 🔹Perform roles as Site Reliability Engineer(SRE), DevSecOps Engineer, Kubenetes engineer, Azure DevOps Engineer, AWS cloud Engineer, Linux SME(Subject Matter Expert).
 
 - 🌱 I’m currently learning AI/ML driven concepts
